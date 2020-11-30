@@ -1,6 +1,6 @@
 # amfoss-tasks-
 # Akshat Tripathi
-**I am Akshat Tripathi from Gorakhpur Uttar Pradesh**
+**I am Akshat Tripathi from Gorakhpur Uttar Pradesh,fresher at Amrita School of Engineering(EAC 2020)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-00)|Installing Ubuntu|Completed
