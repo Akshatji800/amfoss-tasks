@@ -10,7 +10,7 @@
 [Task-04](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-04)|Debugging Derbies|Completed
 [Task-05](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-05)|Rustic Scraper|Not Attempted till yet
 [Task-06](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-06)|Geddit|Partially Done(Not Getting Desired Output)
-[Task-07](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-07)|Ubiquitous UI|Not Attempted till yet
+[Task-07](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-07)|Ubiquitous UI|Completed
 [Task-08](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-08)|Sir Perceval's quest|Completed
 [Task-09](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-09)|Spammer_Spaghetti(Whatsapp Spammer)|Completed
 [Task-10](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-10)|CS50|Not Attempted till yet
