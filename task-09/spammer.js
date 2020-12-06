@@ -12,7 +12,7 @@ async function scrape(url) {
   );
 
   for (let i = 0; i < 100; i++) {
-    await inp.type("ok this is magic");
+    await inp.type("HI");
     await page.keyboard.press("Enter");
   }
 }
