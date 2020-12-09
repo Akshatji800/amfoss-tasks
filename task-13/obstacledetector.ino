@@ -18,7 +18,7 @@ void loop()
     time = pulseIn (echo_pin, HIGH);
     distance = (time * 0.034) / 2;
 
-  if (distance >= 100) 
+  if (distance >= 10) 
         {
         Serial.println (" motor rotating ");
         Serial.print (" Distance= ");              
