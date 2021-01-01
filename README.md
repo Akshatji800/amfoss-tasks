@@ -6,7 +6,7 @@
 [Task-00](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-00)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-02)|Registering nick in IRC Freenode|Completed
-[Task-03](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-03)|Programming|Partially Done
+[Task-03](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-03)|Programming|Done Six Questions
 [Task-04](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-04)|Debugging Derbies|Completed
 [Task-05](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-05)|Rustic Scraper|Not Attempted till yet
 [Task-06](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-06)|Geddit|Completed
@@ -18,7 +18,7 @@
 [Task-12](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-12)|If maths was FUN:P|Done(Output is fine but source limit crossed) 
 [Task-13](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-13)|Circuit Design(Arduino)|Completed
 [Task-14](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-14)|Bandit|Completed
-[Task-15](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-15)|Project Euler|Not Attempted till yet
+[Task-15](https://github.com/Akshatji800/amfoss-tasks/tree/master/task-15)|Project Euler|Completed
 ## My views about the tasks
 I myself have not completed all the tasks so i cannot directly say that they were easy but yaa they were not of that type that they 
 would be out of the range of freshers.They were so amazing that i cannot have a particular word to describe them.They challange us to 
